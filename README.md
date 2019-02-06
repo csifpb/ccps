@@ -5,7 +5,8 @@ Recomendamos o uso da linguagem [Python](https://www.python.org/), haja vista qu
 
 As questões são classificadas por tópico e estão posicionadas em ordem crescente de dificuldade. Cada tópico representa um conjunto de conhecimento que será exercitado, conforme abaixo: 
 
-- ```sequeciais``` vão ajudar a compreensão da estrutura básica da linguagem, como fluxo de execução, declaração de variáveis, operadores matemáticos e lógicos, identação e entrada e saída de dados. 
+- ```introdução``` estrutura básica da linguagem, fluxo de execução, declaração de variáveis, operadores matemáticos e lógicos, entrada e saída de dados.
+- ```condicional``` controle de fluxo, testes condicionais, lógica booleana e identação de blocos. 
 
 A idealização e organização deste repositório, bem como a seleção das questões foram realizadas por [Adjamilton Junior](https://github.com/ajunior), [Paulo Felipe Feitosa](https://github.com/paulofelipefeitosa) e [Weslley Cunha](https://github.com/weslleycunha), aos quais registramos votos de agradecimento.
 
