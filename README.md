@@ -14,6 +14,17 @@ Quaisquer dúvidas ou sugestões podem ser enviadas via [issue](https://github.c
 
 ## Questões
 
-| Tópico | Questão | Nome |
-| --- | :---: | --- |
-| Introdução | [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) | Extremamente Básico |
+| Tópico | Questão | Conceito |
+| --- | --- | --- |
+| Introdução | [1001 - Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) | Entrada e saída, operador matemático |
+| Introdução | [1002 - Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002) | |
+| Introdução | [1003 - Soma Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1003) | |
+| Introdução | [1007 - Diferença](https://www.urionlinejudge.com.br/judge/pt/problems/view/1007) | |
+| Introdução | | |
+| Introdução | | |
+| Introdução | | |
+| Introdução | | |
+| Introdução | | |
+| Introdução | | |
+| Introdução | | |
+| Introdução | | |
