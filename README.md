@@ -15,12 +15,12 @@ Quaisquer dúvidas ou sugestões podem ser enviadas via [issue](https://github.c
 ## Questões
 
 | Tópico | Questão | Conceito(s) |
-| --- | --------------------------------- | --- |
-| Introdução | [1001 - Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) | Leitura de dados em linhas diferentes, conversão de string para int, saída de dados, operador matemático (adição) |
-| Introdução | [1002 - Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002) | Leitura de dados em linhas diferentes, conversão de string para float, saída de dados com precisão decimal, operador matemático (multiplicação), uso de valore literal |
-| Introdução | [1005 - Média 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1005) | Leitura de dados em linhas diferentes, conversão de string para float, saída de dados com precisão decimal, operador matemático (adição, multiplicação e divisão), precedência de operadores |
-| Introdução | [1007 - Diferença](https://www.urionlinejudge.com.br/judge/pt/problems/view/1007) | Leitura de dados em linhas diferentes, conversão de string para int, saída de dados, operador matemático (multiplicação e subtração) |
-| Introdução | [1010 - Cálculo Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1010) | Leitura de dados na mesma linha e em linhas diferentes, conversão de string para int e float, saída de dados com precisão decimal, operador matemático (multiplicação e adição) |
+| --- | :---: | --- |
+| Introdução | [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) | Leitura de dados em linhas diferentes, conversão de string para int, saída de dados, operador matemático (adição) |
+| Introdução | [1002](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002) | Leitura de dados em linhas diferentes, conversão de string para float, saída de dados com precisão decimal, operador matemático (multiplicação), uso de valore literal |
+| Introdução | [1005](https://www.urionlinejudge.com.br/judge/pt/problems/view/1005) | Leitura de dados em linhas diferentes, conversão de string para float, saída de dados com precisão decimal, operador matemático (adição, multiplicação e divisão), precedência de operadores |
+| Introdução | [1007](https://www.urionlinejudge.com.br/judge/pt/problems/view/1007) | Leitura de dados em linhas diferentes, conversão de string para int, saída de dados, operador matemático (multiplicação e subtração) |
+| Introdução | [1010](https://www.urionlinejudge.com.br/judge/pt/problems/view/1010) | Leitura de dados na mesma linha e em linhas diferentes, conversão de string para int e float, saída de dados com precisão decimal, operador matemático (multiplicação e adição) |
 | Introdução | | |
 | Introdução | | |
 | Introdução | | |
